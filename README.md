@@ -1,4 +1,4 @@
- ![Black and White Modern Gaming Channel YouTube Outro](https://github.com/DavidRaigozaJ/DavidRaigozaJ/assets/127260772/cc29218f-a6e7-457a-bf48-cd45a5eb878c)
+
 
 -<H1 align="center">👋 Hi, I’m @DavidRaigozaJ!</H1>
 
