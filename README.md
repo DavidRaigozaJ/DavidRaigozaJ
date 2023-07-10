@@ -1,6 +1,4 @@
-
-
--<H1 align="center">👋 Hi, I’m @DavidRaigozaJ!</H1>
+<H1 align="center">👋 Hi, I’m @DavidRaigozaJ!</H1>
 
 ![Untitled design](https://github.com/DavidRaigozaJ/DavidRaigozaJ/assets/127260772/fc78225a-338d-4e44-99b8-f08f27c4fc83)
 
