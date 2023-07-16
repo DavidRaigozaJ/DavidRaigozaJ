@@ -1,4 +1,21 @@
-<H1 align="center">👋 Hi, I’m @DavidRaigozaJ!</H1>
+<h1 align="center">👋 Hi, I’m @DavidRaigozaJ!</h1>
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <a href="#"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"> 
+  </a>
+  <a href=""><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  </a>
+</div>
+
 
 ![Untitled design](https://github.com/DavidRaigozaJ/DavidRaigozaJ/assets/127260772/fc78225a-338d-4e44-99b8-f08f27c4fc83)
 
