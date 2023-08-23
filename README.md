@@ -24,7 +24,11 @@
 - 💞️ I’m looking to collaborate on web3 projects. I believe that blockchain technology offers an incredible opportunity to revolutionize the way we interact with money and art. As a design engineering graduate and a master of arts, I bring a fresh perspective to the world of blockchain development. My passion for creating beautiful and meaningful products inspires me to push the boundaries of what's possible with blockchain technology. Whether you need help with building Ethereum nodes or creating innovative NFTs, I have the skills and experience to help you succeed.
 - 📫 How to reach me write me on any channel
 
-Check My Portfolio here
+## Check our e-commerce
+
+https://pepeymatilda.co
+
+## Check My Portfolio here
 
 https://portfolio-next-v1-phi.vercel.app/
 
