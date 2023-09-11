@@ -32,6 +32,9 @@ https://pepeymatilda.co
 
 https://portfolio-next-v1-phi.vercel.app/
 
+## Shopify Stores
+coming soon
+
 <!---
 DavidRaigozaJ/DavidRaigozaJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
